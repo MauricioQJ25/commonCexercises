@@ -1,3 +1,4 @@
+/* Buuble Sort */
 #include <stdio.h>
 
 void printArray(int* A, int arraySize){
